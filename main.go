@@ -4,5 +4,5 @@ import "fmt"
 
 func main(){
     fmt.Println("Desenvolvimento")
-    fmt.Println("Feature Xpto")
+    fmt.Println("Feature Xpto v.1.2")
 }

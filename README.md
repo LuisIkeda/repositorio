@@ -5,6 +5,9 @@ repositorio
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+
 ## Nova Feature
 Nova Branch
     Branch Develop
