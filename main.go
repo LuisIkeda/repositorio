@@ -7,4 +7,5 @@ func main(){
     fmt.Println("Feature Xpto v.1.2 corrigida")
     fmt.Println("hotfix Xpto v.1.2 corrigida")
     fmt.Println("hotfix Xpto v.1.3")
+    fmt.Println("hotfix ajute Xpto v.1.4")
 }
