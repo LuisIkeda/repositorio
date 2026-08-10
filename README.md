@@ -15,11 +15,16 @@ Nova Branch
 
 
 ## Git Flow
-main        git pull origin main
+main        
 hotfix
 release
 develop
 feature
 feature
 
+git checkout -b xxx
+git checkout xxx
+git merge xxx
 
+
+## GitHub Flow
