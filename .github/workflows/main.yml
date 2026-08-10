@@ -27,8 +27,8 @@ jobs:
         run: node --version
       - name: "Definição da versão 24.19.0 do NodeJS"
         uses: actions/setup-node@v7
-          with:
-            node-version: '24.19.0'
+        with:
+          node-version: '24.19.0'
       - name: "Verificação do Versão do NodeJS depois de atualizar"
         run: node --version
             
